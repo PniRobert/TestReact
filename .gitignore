@@ -1,5 +1,8 @@
 packages
 .vs
 bin
+dist
 obj
+node_modules
 *.user
+package-lock.json
